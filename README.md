@@ -5,10 +5,7 @@
 4.	Junit4测试
 5.	打印sql
 6.	STS编译Maven项目需要注意的问题
-
-
-<?xml version="1.0" encoding="UTF-8"?>
-<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee" xmlns:web="http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd" id="WebApp_ID" version="3.0">
+ 
 	<display-name>mybatis</display-name>
 	<context-param>
 		<param-name>contextConfigLocation</param-name>
@@ -59,4 +56,4 @@
 	<session-config>
 		<session-timeout>15</session-timeout>
 	</session-config>
-</web-app>
+ 
