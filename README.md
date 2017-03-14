@@ -36,7 +36,7 @@
 	<!-- spring mvc servlet -->
 	<servlet>
 		<description>spring mvc servlet</description>
-		<servlet-name>springMvc</servlet-name>
+		<servlet-name>springMvc</servlet-name> 
 		<servlet-class>org.springframework.web.servlet.DispatcherServlet</servlet-class>
 		<init-param>
 			<description>spring mvc 配置文件</description>
